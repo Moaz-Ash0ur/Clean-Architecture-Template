@@ -1,0 +1,26 @@
+# Build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+
+# Publish
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+
+# Others
+launchSettings.json
+appsettings.Development.json
